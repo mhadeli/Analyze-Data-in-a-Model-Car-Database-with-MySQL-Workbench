@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-As a novice data analyst, I will be assisting Mint Classics in addressing inventory and storage facility-related issues. The goal of this project is to conduct data analysis using SQL to extract and analyze data from the Mint Classics relational database.
+As a data analyst, I will be assisting Mint Classics in addressing inventory and storage facility-related issues. The goal of this project is to conduct data analysis using SQL to extract and analyze data from the Mint Classics relational database.
 
 ## Skills Demonstrated
 
